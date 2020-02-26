@@ -2,7 +2,8 @@ p
 {background-color: blueviolet;}
 
 
-h1{background-color: coral;}
+h1{background-color: coral;
+font-weight: bold;}
 
 .hobbies{background-color: darkgreen;}
 #age{background-color: darkred;}

@@ -39,6 +39,8 @@ switch (cat) {//hoon ba7ot bel case small letters la2no hala2 kol shi 7ayd5ol 3a
         alert('you got it wrong');
         break;
 
+    
+
 
 
 alert('thank you for visiting ');
